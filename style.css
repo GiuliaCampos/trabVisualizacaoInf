@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;   
+}
+
+.title{
+    align-items: center;
+}
+
+h1, h3{
+    text-align: center;
+}
