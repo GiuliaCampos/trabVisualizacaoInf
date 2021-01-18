@@ -1,0 +1,785 @@
+[
+  {
+    "ano": 2020,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "procurou_informacoes": {
+          "sim": 32960989,
+          "nao": 9033867,
+          "nao_sabe": 982907,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 25778138,
+          "nao": 16023749,
+          "nao_sabe": 1175876,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 34300638,
+          "nao": 8275770,
+          "nao_sabe": 401355,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "procurou_informacoes": {
+          "sim": 18872731,
+          "nao": 5105954,
+          "nao_sabe": 305787,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 13023592,
+          "nao": 10595714,
+          "nao_sabe": 665166,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 16621652,
+          "nao": 7256703,
+          "nao_sabe": 406117,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "procurou_informacoes": {
+          "sim": 10381818,
+          "nao": 3229181,
+          "nao_sabe": 702104,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 8426761,
+          "nao": 5543765,
+          "nao_sabe": 342577,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 11235583,
+          "nao": 2918446,
+          "nao_sabe": 159075,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "procurou_informacoes": {
+          "sim": 4770511,
+          "nao": 2694409,
+          "nao_sabe": 54412,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 3744248,
+          "nao": 3648016,
+          "nao_sabe": 127068,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 4273202,
+          "nao": 3246130,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "procurou_informacoes": {
+          "sim": 6285681,
+          "nao": 1615646,
+          "nao_sabe": 158658,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 4174202,
+          "nao": 3885784,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 5137028,
+          "nao": 2746736,
+          "nao_sabe": 176222,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "sexos": [
+      {
+        "sexo": "Masculino",
+        "procurou_informacoes": {
+          "sim": 37263398,
+          "nao": 11958715,
+          "nao_sabe": 1063908,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 30889903,
+          "nao": 18322682,
+          "nao_sabe": 1073437,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 37698995,
+          "nao": 11986797,
+          "nao_sabe": 600229,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "sexo": "Feminino",
+        "procurou_informacoes": {
+          "sim": 36008332,
+          "nao": 9720343,
+          "nao_sabe": 1139960,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 24257039,
+          "nao": 21374346,
+          "nao_sabe": 1237251,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 33869108,
+          "nao": 12456988,
+          "nao_sabe": 542539,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "procurou_informacoes": {
+          "sim": 21286051,
+          "nao": 8373825,
+          "nao_sabe": 1012314,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 15001264,
+          "nao": 14624841,
+          "nao_sabe": 1046085,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 18633536,
+          "nao": 11313094,
+          "nao_sabe": 725560,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "procurou_informacoes": {
+          "sim": 20909255,
+          "nao": 5588363,
+          "nao_sabe": 553793,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 14982149,
+          "nao": 11391131,
+          "nao_sabe": 678131,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 21257315,
+          "nao": 5664512,
+          "nao_sabe": 129585,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "procurou_informacoes": {
+          "sim": 16903479,
+          "nao": 3634491,
+          "nao_sabe": 472467,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 12741196,
+          "nao": 7938693,
+          "nao_sabe": 330548,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 16434489,
+          "nao": 4409114,
+          "nao_sabe": 166834,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "procurou_informacoes": {
+          "sim": 11573035,
+          "nao": 2899791,
+          "nao_sabe": 107051,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 9729914,
+          "nao": 4628418,
+          "nao_sabe": 221545,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 11988164,
+          "nao": 2515383,
+          "nao_sabe": 76330,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "procurou_informacoes": {
+          "sim": 2599911,
+          "nao": 1182587,
+          "nao_sabe": 58243,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 2692418,
+          "nao": 1113945,
+          "nao_sabe": 34378,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 3254599,
+          "nao": 541683,
+          "nao_sabe": 44459,
+          "nao_respondeu": 0
+        }
+      }
+    ]
+  },
+  {
+    "ano": 2019,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "procurou_informacoes": {
+          "sim": 24034784,
+          "nao": 17897965,
+          "nao_sabe": 29811,
+          "nao_respondeu": 1186
+        },
+        "realizou_servico_publico": {
+          "sim": 17202807,
+          "nao": 24725160,
+          "nao_sabe": 34593,
+          "nao_respondeu": 1186
+        },
+        "fez_transacao_financeira": {
+          "sim": 20358279,
+          "nao": 21604281,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "procurou_informacoes": {
+          "sim": 12838996,
+          "nao": 10736682,
+          "nao_sabe": 3341,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 7621241,
+          "nao": 15957778,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 8598805,
+          "nao": 14978675,
+          "nao_sabe": 1538,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "procurou_informacoes": {
+          "sim": 8255662,
+          "nao": 5744718,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 5711355,
+          "nao": 8289026,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 6354308,
+          "nao": 7639703,
+          "nao_sabe": 6370,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "procurou_informacoes": {
+          "sim": 3473963,
+          "nao": 3812895,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 2113727,
+          "nao": 5164359,
+          "nao_sabe": 8772,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 2336817,
+          "nao": 4950041,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "procurou_informacoes": {
+          "sim": 4249682,
+          "nao": 3607116,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 2773157,
+          "nao": 5083642,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 3212671,
+          "nao": 4642714,
+          "nao_sabe": 0,
+          "nao_respondeu": 1414
+        }
+      }
+    ],
+    "sexos": [
+      {
+        "sexo": "Masculino",
+        "procurou_informacoes": {
+          "sim": 23632645,
+          "nao": 22210786,
+          "nao_sabe": 29811,
+          "nao_respondeu": 1186
+        },
+        "realizou_servico_publico": {
+          "sim": 19001619,
+          "nao": 26853455,
+          "nao_sabe": 18168,
+          "nao_respondeu": 1186
+        },
+        "fez_transacao_financeira": {
+          "sim": 22622791,
+          "nao": 23242542,
+          "nao_sabe": 7908,
+          "nao_respondeu": 1186
+        }
+      },
+      {
+        "sexo": "Feminino",
+        "procurou_informacoes": {
+          "sim": 29220442,
+          "nao": 19588590,
+          "nao_sabe": 3341,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 16420668,
+          "nao": 32366509,
+          "nao_sabe": 25197,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 18238088,
+          "nao": 30572872,
+          "nao_sabe": 0,
+          "nao_respondeu": 1414
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "procurou_informacoes": {
+          "sim": 13163222,
+          "nao": 15024009,
+          "nao_sabe": 17104,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 8509198,
+          "nao": 19685001,
+          "nao_sabe": 10136,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 8794245,
+          "nao": 19410089,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "procurou_informacoes": {
+          "sim": 15248761,
+          "nao": 11802651,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 10747032,
+          "nao": 16273713,
+          "nao_sabe": 30666,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 13119671,
+          "nao": 13923831,
+          "nao_sabe": 7908,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "procurou_informacoes": {
+          "sim": 12694393,
+          "nao": 8314859,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        },
+        "realizou_servico_publico": {
+          "sim": 8461203,
+          "nao": 12548048,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        },
+        "fez_transacao_financeira": {
+          "sim": 9831832,
+          "nao": 11177419,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "procurou_informacoes": {
+          "sim": 9648741,
+          "nao": 4915088,
+          "nao_sabe": 16048,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 6518598,
+          "nao": 8061279,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 7564796,
+          "nao": 7015081,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "procurou_informacoes": {
+          "sim": 2097971,
+          "nao": 1742770,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 1186256,
+          "nao": 2651922,
+          "nao_sabe": 2563,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 1550334,
+          "nao": 2288993,
+          "nao_sabe": 0,
+          "nao_respondeu": 1414
+        }
+      }
+    ]
+  },
+  {
+    "ano": 2018,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "procurou_informacoes": {
+          "sim": 23783075,
+          "nao": 17945675,
+          "nao_sabe": 5527,
+          "nao_respondeu": 10664
+        },
+        "realizou_servico_publico": {
+          "sim": 15544247,
+          "nao": 26176957,
+          "nao_sabe": 23736,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 17218790,
+          "nao": 24406921,
+          "nao_sabe": 119230,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "procurou_informacoes": {
+          "sim": 11308966,
+          "nao": 10562582,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 5794388,
+          "nao": 16071899,
+          "nao_sabe": 5261,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 6548041,
+          "nao": 15318016,
+          "nao_sabe": 5492,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "procurou_informacoes": {
+          "sim": 7205469,
+          "nao": 5926550,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 4238719,
+          "nao": 8872601,
+          "nao_sabe": 20700,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 5337352,
+          "nao": 7776040,
+          "nao_sabe": 18628,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "procurou_informacoes": {
+          "sim": 3459369,
+          "nao": 3971486,
+          "nao_sabe": 25294,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 2116153,
+          "nao": 5336908,
+          "nao_sabe": 3089,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 1809371,
+          "nao": 5622308,
+          "nao_sabe": 24470,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "procurou_informacoes": {
+          "sim": 4249423,
+          "nao": 2657301,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 2893690,
+          "nao": 4001745,
+          "nao_sabe": 11289,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 2408004,
+          "nao": 4481318,
+          "nao_sabe": 17402,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "sexos": [
+      {
+        "sexo": "Masculino",
+        "procurou_informacoes": {
+          "sim": 23019433,
+          "nao": 21190242,
+          "nao_sabe": 25294,
+          "nao_respondeu": 10664
+        },
+        "realizou_servico_publico": {
+          "sim": 17363451,
+          "nao": 26861605,
+          "nao_sabe": 20578,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 19151843,
+          "nao": 24954984,
+          "nao_sabe": 138807,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "sexo": "Feminino",
+        "procurou_informacoes": {
+          "sim": 26986869,
+          "nao": 19873353,
+          "nao_sabe": 5527,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 13223745,
+          "nao": 33598505,
+          "nao_sabe": 43498,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 14169714,
+          "nao": 32649619,
+          "nao_sabe": 46416,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "procurou_informacoes": {
+          "sim": 12539570,
+          "nao": 14285360,
+          "nao_sabe": 30821,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 7347529,
+          "nao": 19493395,
+          "nao_sabe": 14827,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 7542035,
+          "nao": 19241056,
+          "nao_sabe": 72660,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "procurou_informacoes": {
+          "sim": 14709441,
+          "nao": 10766572,
+          "nao_sabe": 0,
+          "nao_respondeu": 10664
+        },
+        "realizou_servico_publico": {
+          "sim": 8914885,
+          "nao": 16551033,
+          "nao_sabe": 20759,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 10609105,
+          "nao": 14862965,
+          "nao_sabe": 14608,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "procurou_informacoes": {
+          "sim": 12347325,
+          "nao": 7916321,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 7680432,
+          "nao": 12583214,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 8434415,
+          "nao": 11768579,
+          "nao_sabe": 60652,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "procurou_informacoes": {
+          "sim": 8338608,
+          "nao": 5982208,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 5502587,
+          "nao": 8797711,
+          "nao_sabe": 20518,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 5150446,
+          "nao": 9148435,
+          "nao_sabe": 21935,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "procurou_informacoes": {
+          "sim": 2071358,
+          "nao": 2113134,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "realizou_servico_publico": {
+          "sim": 1141764,
+          "nao": 3034757,
+          "nao_sabe": 7972,
+          "nao_respondeu": 0
+        },
+        "fez_transacao_financeira": {
+          "sim": 1585556,
+          "nao": 2583568,
+          "nao_sabe": 15368,
+          "nao_respondeu": 0
+        }
+      }
+    ]
+  }
+]

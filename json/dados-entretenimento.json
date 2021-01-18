@@ -1,0 +1,857 @@
+[
+  {
+    "ano": 2018,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "ouviu_musicas": {
+          "sim": 31492320,
+          "nao": 10252620,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 31658178,
+          "nao": 10083035,
+          "nao_sabe": 3727,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 28117676,
+          "nao": 13625962,
+          "nao_sabe": 1302,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "ouviu_musicas": {
+          "sim": 16973819,
+          "nao": 4816069,
+          "nao_sabe": 81661,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 17159063,
+          "nao": 4712485,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 14202278,
+          "nao": 7669271,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "ouviu_musicas": {
+          "sim": 9708414,
+          "nao": 3423606,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 10168416,
+          "nao": 2963604,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 8971952,
+          "nao": 4160068,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "ouviu_musicas": {
+          "sim": 5995154,
+          "nao": 1460996,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 5742841,
+          "nao": 1713309,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 4534068,
+          "nao": 2920999,
+          "nao_sabe": 1083,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "ouviu_musicas": {
+          "sim": 5700309,
+          "nao": 1206415,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 5329707,
+          "nao": 1577017,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 4452034,
+          "nao": 2448365,
+          "nao_sabe": 6325,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "sexos": [
+      {
+        "sexo": "Masculino",
+        "ouviu_musicas": {
+          "sim": 35031531,
+          "nao": 9214102,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 36122242,
+          "nao": 8123392,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 31033640,
+          "nao": 13204367,
+          "nao_sabe": 7626,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "sexo": "Feminino",
+        "ouviu_musicas": {
+          "sim": 34838484,
+          "nao": 11945604,
+          "nao_sabe": 81661,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 33935965,
+          "nao": 12926057,
+          "nao_sabe": 3727,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 29244367,
+          "nao": 17620298,
+          "nao_sabe": 1083,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "ouviu_musicas": {
+          "sim": 23505378,
+          "nao": 3350372,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 23700409,
+          "nao": 3155342,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 16886386,
+          "nao": 9969365,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "ouviu_musicas": {
+          "sim": 20320332,
+          "nao": 5084684,
+          "nao_sabe": 81661,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 20542161,
+          "nao": 4944517,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 17197925,
+          "nao": 8281127,
+          "nao_sabe": 7626,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "ouviu_musicas": {
+          "sim": 15720839,
+          "nao": 4542806,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 14202647,
+          "nao": 6060999,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 14490163,
+          "nao": 5772400,
+          "nao_sabe": 1083,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "ouviu_musicas": {
+          "sim": 8526479,
+          "nao": 5794338,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 9698773,
+          "nao": 4618316,
+          "nao_sabe": 3727,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 9203912,
+          "nao": 5116904,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "ouviu_musicas": {
+          "sim": 1796986,
+          "nao": 2387505,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 1914216,
+          "nao": 2270275,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 2499622,
+          "nao": 1684870,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      }
+    ]
+  },
+  {
+    "ano": 2019,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "ouviu_musicas": {
+          "sim": 32632580,
+          "nao": 9320975,
+          "nao_sabe": 9006,
+          "nao_respondeu": 1186
+        },
+        "assistiu_videos": {
+          "sim": 33678035,
+          "nao": 8278866,
+          "nao_sabe": 5658,
+          "nao_respondeu": 1186
+        },
+        "leu_noticias": {
+          "sim": 28127543,
+          "nao": 13835017,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "ouviu_musicas": {
+          "sim": 18516778,
+          "nao": 5062240,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 18950469,
+          "nao": 4628549,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 15542784,
+          "nao": 8036235,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "ouviu_musicas": {
+          "sim": 10549775,
+          "nao": 3418175,
+          "nao_sabe": 0,
+          "nao_respondeu": 32430
+        },
+        "assistiu_videos": {
+          "sim": 11417889,
+          "nao": 2582492,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 9501534,
+          "nao": 4495725,
+          "nao_sabe": 3122,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "ouviu_musicas": {
+          "sim": 5437735,
+          "nao": 1849123,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 5880717,
+          "nao": 1406140,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 4784797,
+          "nao": 2502060,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "ouviu_musicas": {
+          "sim": 6040796,
+          "nao": 1816003,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 6022430,
+          "nao": 1834369,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 4717554,
+          "nao": 3136993,
+          "nao_sabe": 2252,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "sexos": [
+      {
+        "sexo": "Masculino",
+        "ouviu_musicas": {
+          "sim": 36770027,
+          "nao": 9061779,
+          "nao_sabe": 9006,
+          "nao_respondeu": 33616
+        },
+        "assistiu_videos": {
+          "sim": 38532151,
+          "nao": 7341090,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        },
+        "leu_noticias": {
+          "sim": 31543716,
+          "nao": 14329526,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        }
+      },
+      {
+        "sexo": "Feminino",
+        "ouviu_musicas": {
+          "sim": 36407637,
+          "nao": 12404737,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 37417389,
+          "nao": 11389327,
+          "nao_sabe": 5658,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 31130497,
+          "nao": 17676503,
+          "nao_sabe": 5374,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "ouviu_musicas": {
+          "sim": 24808156,
+          "nao": 3396179,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 25229177,
+          "nao": 2975158,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 17009454,
+          "nao": 11194881,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "ouviu_musicas": {
+          "sim": 21314197,
+          "nao": 5695778,
+          "nao_sabe": 9006,
+          "nao_respondeu": 32430
+        },
+        "assistiu_videos": {
+          "sim": 22459167,
+          "nao": 4592244,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 18368869,
+          "nao": 8682543,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "ouviu_musicas": {
+          "sim": 15638733,
+          "nao": 5370519,
+          "nao_sabe": 0,
+          "nao_respondeu": 1186
+        },
+        "assistiu_videos": {
+          "sim": 15890754,
+          "nao": 5112839,
+          "nao_sabe": 5658,
+          "nao_respondeu": 1186
+        },
+        "leu_noticias": {
+          "sim": 14235047,
+          "nao": 6771083,
+          "nao_sabe": 3122,
+          "nao_respondeu": 1186
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "ouviu_musicas": {
+          "sim": 9554024,
+          "nao": 5025853,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 10435229,
+          "nao": 4144648,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 10718826,
+          "nao": 3858799,
+          "nao_sabe": 2252,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "ouviu_musicas": {
+          "sim": 1862554,
+          "nao": 1978187,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 1935214,
+          "nao": 1905527,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 2342017,
+          "nao": 1498724,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      }
+    ]
+  },
+  {
+    "ano": 2020,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "ouviu_musicas": {
+          "sim": 37442481,
+          "nao": 5410513,
+          "nao_sabe": 124769,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 39545714,
+          "nao": 3369626,
+          "nao_sabe": 62423,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 32136451,
+          "nao": 10440050,
+          "nao_sabe": 401262,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 28880951,
+          "nao": 13571590,
+          "nao_sabe": 525222,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "ouviu_musicas": {
+          "sim": 22319825,
+          "nao": 1836169,
+          "nao_sabe": 128478,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 22783614,
+          "nao": 1454696,
+          "nao_sabe": 46162,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 18551654,
+          "nao": 5510188,
+          "nao_sabe": 222629,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 17531532,
+          "nao": 6284050,
+          "nao_sabe": 468890,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "ouviu_musicas": {
+          "sim": 12822550,
+          "nao": 1490553,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 12983780,
+          "nao": 1312114,
+          "nao_sabe": 17210,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 10474054,
+          "nao": 3509076,
+          "nao_sabe": 329974,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 10436880,
+          "nao": 3784227,
+          "nao_sabe": 91996,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "ouviu_musicas": {
+          "sim": 6216152,
+          "nao": 1303180,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 6404419,
+          "nao": 1002100,
+          "nao_sabe": 112814,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 5396807,
+          "nao": 2122525,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 4403036,
+          "nao": 3026095,
+          "nao_sabe": 90201,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "ouviu_musicas": {
+          "sim": 6983652,
+          "nao": 1076334,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 6403771,
+          "nao": 1589392,
+          "nao_sabe": 66823,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 5058803,
+          "nao": 2924135,
+          "nao_sabe": 77048,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 4834632,
+          "nao": 3187368,
+          "nao_sabe": 37986,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "sexos": [
+      {
+        "sexo": "Masculino",
+        "ouviu_musicas": {
+          "sim": 44810540,
+          "nao": 5438515,
+          "nao_sabe": 36966,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 46295100,
+          "nao": 3776463,
+          "nao_sabe": 214458,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 38521122,
+          "nao": 11299484,
+          "nao_sabe": 465415,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 35112058,
+          "nao": 14357159,
+          "nao_sabe": 816804,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "sexo": "Feminino",
+        "ouviu_musicas": {
+          "sim": 40974120,
+          "nao": 5678234,
+          "nao_sabe": 216281,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 41826197,
+          "nao": 4951464,
+          "nao_sabe": 90973,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 33096648,
+          "nao": 13206490,
+          "nao_sabe": 565497,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 30974974,
+          "nao": 15496171,
+          "nao_sabe": 397491,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "ouviu_musicas": {
+          "sim": 28777367,
+          "nao": 1886109,
+          "nao_sabe": 8714,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 28114512,
+          "nao": 2363452,
+          "nao_sabe": 194226,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 19211164,
+          "nao": 10862640,
+          "nao_sabe": 598386,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 19230064,
+          "nao": 10975056,
+          "nao_sabe": 467071,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "ouviu_musicas": {
+          "sim": 25097683,
+          "nao": 1839833,
+          "nao_sabe": 113896,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 25441056,
+          "nao": 1533970,
+          "nao_sabe": 76385,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 21516684,
+          "nao": 5445884,
+          "nao_sabe": 88843,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 20474515,
+          "nao": 6398851,
+          "nao_sabe": 178045,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "ouviu_musicas": {
+          "sim": 17705851,
+          "nao": 3271229,
+          "nao_sabe": 33357,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 18534636,
+          "nao": 2475801,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 15473681,
+          "nao": 5222814,
+          "nao_sabe": 313942,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 14220481,
+          "nao": 6488444,
+          "nao_sabe": 301512,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "ouviu_musicas": {
+          "sim": 11685612,
+          "nao": 2815176,
+          "nao_sabe": 79089,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 13155565,
+          "nao": 1406700,
+          "nao_sabe": 17612,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 12214351,
+          "nao": 2335784,
+          "nao_sabe": 29742,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 9773881,
+          "nao": 4580867,
+          "nao_sabe": 225128,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "ouviu_musicas": {
+          "sim": 2518147,
+          "nao": 1304402,
+          "nao_sabe": 18192,
+          "nao_respondeu": 0
+        },
+        "assistiu_videos": {
+          "sim": 2875528,
+          "nao": 948003,
+          "nao_sabe": 17210,
+          "nao_respondeu": 0
+        },
+        "leu_noticias": {
+          "sim": 3201890,
+          "nao": 638851,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "transmissao_em_tempo_real": {
+          "sim": 2388091,
+          "nao": 1410112,
+          "nao_sabe": 42538,
+          "nao_respondeu": 0
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "ano": 2020,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 41984545,
+          "nao": 907428,
+          "nao_sabe": 85791,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 36529065,
+          "nao": 6251666,
+          "nao_sabe": 197032,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 39735201,
+          "nao": 3043846,
+          "nao_sabe": 198716,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 23827647,
+          "nao": 437261,
+          "nao_sabe": 19565,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 20811222,
+          "nao": 3200319,
+          "nao_sabe": 272931,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 22378686,
+          "nao": 1848615,
+          "nao_sabe": 57171,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "mandou_mensagens_instantaneas": {
+          "sim": 14035494,
+          "nao": 277609,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 11554104,
+          "nao": 2704470,
+          "nao_sabe": 54529,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 13500150,
+          "nao": 608353,
+          "nao_sabe": 204600,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "mandou_mensagens_instantaneas": {
+          "sim": 7422550,
+          "nao": 96782,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 6018563,
+          "nao": 1402704,
+          "nao_sabe": 98064,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 5306427,
+          "nao": 2144253,
+          "nao_sabe": 68652,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 7153740,
+          "nao": 906246,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 5834283,
+          "nao": 2186720,
+          "nao_sabe": 38984,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 7076370,
+          "nao": 961088,
+          "nao_sabe": 22529,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+        {
+          "faixa_etaria": "16 a 24",
+          "mandou_mensagens_instantaneas": {
+            "sim": 29828498,
+            "nao": 811607,
+            "nao_sabe": 32086,
+            "nao_respondeu": 0
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 24435462,
+            "nao": 5803131,
+            "nao_sabe": 433597,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 28867978,
+            "nao": 1655370,
+            "nao_sabe": 148842,
+            "nao_respondeu": 0
+          }
+        },
+        {
+          "faixa_etaria": "25 a 34",
+          "mandou_mensagens_instantaneas": {
+            "sim": 26860472,
+            "nao": 171374,
+            "nao_sabe": 19565,
+            "nao_respondeu": 0 
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 23205795,
+            "nao": 3795729,
+            "nao_sabe": 49887,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 24569409,
+            "nao": 2435467,
+            "nao_sabe": 46535,
+            "nao_respondeu": 0 
+          }
+        },
+        {
+          "faixa_etaria": "35 a 44",
+          "mandou_mensagens_instantaneas": {
+            "sim": 20229744,
+            "nao": 726988,
+            "nao_sabe": 53705,
+            "nao_respondeu": 0
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 17380330,
+            "nao": 3611199,
+            "nao_sabe": 18908,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 18555227,
+            "nao": 2329799,
+            "nao_sabe": 125411,
+            "nao_respondeu": 0
+          }
+        },
+        {
+          "faixa_etaria": "45 a 59",
+          "mandou_mensagens_instantaneas": {
+            "sim": 13953113,
+            "nao": 626764,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 12530532,
+            "nao": 1890198,
+            "nao_sabe": 159148,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 12753953,
+            "nao": 1610412,
+            "nao_sabe": 215512,
+            "nao_respondeu": 0
+          }
+        },
+        {
+          "faixa_etaria": "60 ou mais",
+          "mandou_mensagens_instantaneas": {
+            "sim": 3552150,
+            "nao": 288591,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 3195117,
+            "nao": 645624,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 3250266,
+            "nao": 575108,
+            "nao_sabe": 15368,
+            "nao_respondeu": 0
+          }
+        }
+      ]
+  },
+  {
+    "ano": 2019,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 40316896,
+          "nao": 1588851,
+          "nao_sabe": 12387,
+          "nao_respondeu": 45612
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 32902343,
+          "nao": 9057106,
+          "nao_sabe": 4296,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 36072925,
+          "nao": 5856627,
+          "nao_sabe": 0,
+          "nao_respondeu": 34194
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 22249671,
+          "nao": 1329347,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 17859252,
+          "nao": 5719767,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 19714220,
+          "nao": 3864799,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "mandou_mensagens_instantaneas": {
+          "sim": 13520915,
+          "nao": 479465,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 10353189,
+          "nao": 3647192,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 12141546,
+          "nao": 1858834,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "mandou_mensagens_instantaneas": {
+          "sim": 6969092,
+          "nao": 317765,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 5177071,
+          "nao": 2109786,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 5923300,
+          "nao": 1363558,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 7553604,
+          "nao": 303195,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 6173274,
+          "nao": 1683525,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 6721656,
+          "nao": 1135143,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+        {
+          "faixa_etaria": "16 a 24",
+          "mandou_mensagens_instantaneas": {
+            "sim": 27185141,
+            "nao": 988537,
+            "nao_sabe": 0,
+            "nao_respondeu": 30657
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 20985995,
+            "nao": 7218340,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 26059713,
+            "nao": 2113965,
+            "nao_sabe": 0,
+            "nao_respondeu": 30657 
+          }
+        },
+        {
+          "faixa_etaria": "25 a 34",
+          "mandou_mensagens_instantaneas": {
+            "sim": 26412753,
+            "nao": 634030,
+            "nao_sabe": 0,
+            "nao_respondeu": 4629  
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 21219707,
+            "nao": 5831704,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 23773992,
+            "nao": 3277420,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          }
+        },
+        {
+          "faixa_etaria": "35 a 44",
+          "mandou_mensagens_instantaneas": {
+            "sim": 19927378,
+            "nao": 1070673,
+            "nao_sabe": 12387,
+            "nao_respondeu": 0
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 16434708,
+            "nao": 4574544,
+            "nao_sabe": 1186,
+            "nao_respondeu": 0 
+          },
+          "usou_redes_sociais": {
+            "sim": 17177663,
+            "nao": 3831589,
+            "nao_sabe": 0,
+            "nao_respondeu": 1186
+          }
+        },
+        {
+          "faixa_etaria": "45 a 59",
+          "mandou_mensagens_instantaneas": {
+            "sim": 13777815,
+            "nao": 791736,
+            "nao_sabe": 0,
+            "nao_respondeu": 10326
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 11036370,
+            "nao": 3540397,
+            "nao_sabe": 3110,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 11100436,
+            "nao": 3477089,
+            "nao_sabe": 0,
+            "nao_respondeu": 2351
+          }
+        },
+        {
+          "faixa_etaria": "60 ou mais",
+          "mandou_mensagens_instantaneas": {
+            "sim": 3307094,
+            "nao": 533647,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "conversou_por_chamada_de_voz": {
+            "sim": 2788350,
+            "nao": 1052391,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          },
+          "usou_redes_sociais": {
+            "sim": 2461844,
+            "nao": 1378897,
+            "nao_sabe": 0,
+            "nao_respondeu": 0
+          }
+        }
+      ]
+  },
+  {
+    "ano": 2018,
+    "regioes": [
+      {
+        "regiao": "Sudeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 39715606,
+          "nao": 2027246,
+          "nao_sabe": 2089,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 31467340,
+          "nao": 10245871,
+          "nao_sabe": 31730,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 34976099,
+          "nao": 6756149,
+          "nao_sabe": 12692,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Nordeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 20528146,
+          "nao": 1343402,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 9252545,
+          "nao": 3864473,
+          "nao_sabe": 15002,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 11158330,
+          "nao": 1968198,
+          "nao_sabe": 5492,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Sul",
+        "mandou_mensagens_instantaneas": {
+          "sim": 12476294,
+          "nao": 655726,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 9252545,
+          "nao": 3864473,
+          "nao_sabe": 15002,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 11158330,
+          "nao": 1968198,
+          "nao_sabe": 5492,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Norte",
+        "mandou_mensagens_instantaneas": {
+          "sim": 6777590,
+          "nao": 657595,
+          "nao_sabe": 20964,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 5090246,
+          "nao": 2365904,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 5774841,
+          "nao": 1681308,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "mandou_mensagens_instantaneas": {
+          "sim": 6711733,
+          "nao": 194990,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 5091080,
+          "nao": 1815644,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 6052472,
+          "nao": 854251,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      }
+    ],
+    "faixas_etarias": [
+      {
+        "faixa_etaria": "16 a 24",
+        "mandou_mensagens_instantaneas": {
+          "sim": 25550006,
+          "nao": 1284781,
+          "nao_sabe": 20964,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 19028525,
+          "nao": 7812223,
+          "nao_sabe": 15002,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 23696996,
+          "nao": 3158755,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "25 a 34",
+        "mandou_mensagens_instantaneas": {
+          "sim": 24594096,
+          "nao": 892582,
+          "nao_sabe": 0,
+          "nao_respondeu": 0 
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 19181780,
+          "nao": 6304898,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 22431024,
+          "nao": 3046755,
+          "nao_sabe": 8898,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "35 a 44",
+        "mandou_mensagens_instantaneas": {
+          "sim": 19570042,
+          "nao": 693604,
+          "nao_sabe": 0,
+          "nao_respondeu": 0 
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 15662998,
+          "nao": 4600648,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 16422077,
+          "nao": 3841569,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "45 a 59",
+        "mandou_mensagens_instantaneas": {
+          "sim": 12916927,
+          "nao": 1401800,
+          "nao_sabe": 2089,
+          "nao_respondeu":  0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 10217647,
+          "nao": 4062801,
+          "nao_sabe": 40368,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 10625852,
+          "nao": 3692875,
+          "nao_sabe": 2089,
+          "nao_respondeu": 0
+        }
+      },
+      {
+        "faixa_etaria": "60 ou mais",
+        "mandou_mensagens_instantaneas": {
+          "sim": 3578299,
+          "nao": 606193,
+          "nao_sabe": 0,
+          "nao_respondeu": 0
+        },
+        "conversou_por_chamada_de_voz": {
+          "sim": 2619833,
+          "nao": 1560753,
+          "nao_sabe": 3906,
+          "nao_respondeu": 0
+        },
+        "usou_redes_sociais": {
+          "sim": 2682108,
+          "nao": 1484076,
+          "nao_sabe": 18308,
+          "nao_respondeu": 0
+        }
+      }
+    ]
+  }
+]
